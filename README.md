@@ -1,2 +1,2 @@
 # grocerywebsite
-Responsive Grocer Website
+Responsive Grocery Website
